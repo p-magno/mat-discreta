@@ -17,7 +17,7 @@ gcc calculadora_mmc.c -lm -o a.out
 
 ./a.out
 
-Em seguida, digite dois números positivos com um espaço e dê enter. Ex: "6 e 12"
+Em seguida, digite dois números positivos com um espaço e dê enter. Ex: "6 12"
 
 Indique um numero entre 1 e 20 para a tabela Zn e dê enter.
 
